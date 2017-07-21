@@ -11,7 +11,7 @@ class Iconizer < Formula
   # depends_on "cmake" => :build
 
   def install
-    bin.install "iconizer.sh"
+    bin.install "iconizer"
     
     # ENV.deparallelize  # if your formula fails when building in parallel
 

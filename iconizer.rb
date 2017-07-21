@@ -1,4 +1,4 @@
-Documentation: http://docs.brew.sh/Formula-Cookbook.html
+# Documentation: http://docs.brew.sh/Formula-Cookbook.html
 #                http://www.rubydoc.info/github/Homebrew/brew/master/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
 

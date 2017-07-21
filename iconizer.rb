@@ -5,10 +5,10 @@
 class Iconizer < Formula
   desc ""
   homepage ""
-  url "https://github.com/carol-mohemian/iconizer/archive/v1.2.tar.gz"
-  sha256 "3dfbcf384d7de796397d0546a71ceb703e4cfbbbcd4fa0471ae32eddcdd919a8"
+  url "https://github.com/carol-mohemian/iconizer/archive/v1.4.tar.gz"
+  sha256 "00606f9d0a5153799ae98bf4fe3db6c0d47fb3108b426115ded0612620b40476"
 
   def install
-    bin.install "iconizer"
+    bin.install "iconizer.sh"
   end
 end

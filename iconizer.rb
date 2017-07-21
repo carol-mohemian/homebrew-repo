@@ -6,7 +6,7 @@ class Iconizer < Formula
   desc ""
   homepage ""
   url "https://github.com/carol-mohemian/iconizer/archive/v1.1.tar.gz"
-  sha256 "6672c6b15c6af1a2da0e60391bd94c452c11e758efe8d5bee39815eab1549d0d"
+  sha256 "e1175f6a3cf8f889a3b19f59d39accf4974a87533c6a65df0e50d0ee955679ef"
 
   # depends_on "cmake" => :build
 

@@ -9,6 +9,6 @@ class Iconizer < Formula
   sha256 "e1175f6a3cf8f889a3b19f59d39accf4974a87533c6a65df0e50d0ee955679ef"
 
   def install
-    bin.install "iconizer.sh"
+    bin.install "iconizer"
   end
 end
